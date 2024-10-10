@@ -1,0 +1,22 @@
+.title {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.main {
+    background-color: rgb(106, 22, 22);
+}
+
+.side {
+    background-color: rgb(22, 97, 22);
+}
+
+.soup {
+    background-color: rgb(143, 63, 14);
+}
+
+.font-size {
+    font-size: 18px;
+    font-family: Verdana, 'Times New Roman', sans-serif;
+}
